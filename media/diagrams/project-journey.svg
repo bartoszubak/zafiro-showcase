@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="690" viewBox="0 0 640 690" role="img" aria-labelledby="title desc">
+  <title id="title">Garden project lifecycle</title>
+  <desc id="desc">Edit a working garden. Explicitly save a local project in the current browser. Publish a read-only snapshot. Creating an editable copy from the published view starts a separate draft and does not change the original garden.</desc>
+  <rect width="640" height="690" fill="#ffffff"/>
+  <g font-family="Arial, Helvetica, sans-serif" fill="#171717">
+    <text x="32" y="52" font-size="30" font-weight="700">Garden project lifecycle</text>
+    <line x1="32" y1="76" x2="608" y2="76" stroke="#d9d9d9"/>
+    <rect x="32" y="104" width="576" height="100" rx="8" fill="#f5f5f3"/>
+    <text x="56" y="146" font-size="27" font-weight="700">Working garden</text>
+    <text x="56" y="181" font-size="24" fill="#525252">Explore and edit a layout</text>
+    <path d="M300 211 V246 M292 234 L300 246 L308 234" fill="none" stroke="#525252" stroke-width="2"/>
+    <text x="322" y="237" font-size="23" fill="#525252">Save</text>
+    <rect x="32" y="254" width="576" height="100" rx="8" fill="#f5f5f3"/>
+    <text x="56" y="296" font-size="27" font-weight="700">Saved local project</text>
+    <text x="56" y="331" font-size="24" fill="#525252">Reopen in the current browser</text>
+    <path d="M300 361 V396 M292 384 L300 396 L308 384" fill="none" stroke="#525252" stroke-width="2"/>
+    <text x="322" y="387" font-size="23" fill="#525252">Publish</text>
+    <rect x="32" y="404" width="576" height="100" rx="8" fill="#202621"/>
+    <text x="56" y="446" font-size="27" font-weight="700" fill="#ffffff">Published view</text>
+    <text x="56" y="481" font-size="24" fill="#eeeeee">Share a read-only snapshot</text>
+    <path d="M300 511 V546 M292 534 L300 546 L308 534" fill="none" stroke="#525252" stroke-width="2"/>
+    <text x="322" y="537" font-size="23" fill="#525252">Create a copy</text>
+    <rect x="32" y="554" width="576" height="100" rx="8" fill="#ffffff" stroke="#888888"/>
+    <text x="56" y="596" font-size="27" font-weight="700">Separate editable draft</text>
+    <text x="56" y="631" font-size="24" fill="#525252">The original stays unchanged</text>
+  </g>
+</svg>
